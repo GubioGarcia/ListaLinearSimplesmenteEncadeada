@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/new/prefix/imagens">
+        <file>Arquivos/incluir.jpg</file>
+        <file>Arquivos/retirar.jpg</file>
+        <file>Arquivos/acessar.jpg</file>
+        <file>Arquivos/ordenacao.jpg</file>
+    </qresource>
+</RCC>
